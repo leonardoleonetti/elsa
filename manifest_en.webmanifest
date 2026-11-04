@@ -1,0 +1,23 @@
+{
+  "name": "Elsa - plane beam structures",
+  "short_name": "Elsa EN",
+  "description": "Elastic analysis of plane beam structures with the displacement method and the force method.",
+  "lang": "en",
+  "id": "Elsa_EN.html",
+  "start_url": "Elsa_EN.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef1f6",
+  "theme_color": "#0d4099",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "file_handlers": [
+    { "action": "Elsa_EN.html", "accept": { "application/json": [".json"] } }
+  ]
+}
