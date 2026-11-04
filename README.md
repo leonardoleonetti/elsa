@@ -13,6 +13,14 @@ funziona anche senza connessione.
 - Android e PC (Chrome, Edge): menu del browser › *Installa app*
 - iPhone e iPad (Safari): Condividi › *Aggiungi alla schermata Home*
 
+## Versione per PC
+
+Nell'app, *Guida* › **Scarica Elsa per PC** scarica `Elsa.html`: un solo
+file che si apre con doppio clic nel browser (Edge, Chrome, Firefox,
+Safari) e funziona senza internet e senza installare nulla. Si può anche
+scaricare da [qui](https://leonardoleonetti.github.io/elsa/Elsa.html)
+con il tasto destro › *Salva link con nome*.
+
 ## Autore e licenza
 
 © 2026 Leonardo Leonetti. Opera personale.
