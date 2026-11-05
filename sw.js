@@ -3,7 +3,7 @@
  * (al caricamento successivo si usa la versione nuova).
  * Cambiare VERSIONE a ogni pubblicazione per rinnovare subito la cache.
  */
-var VERSIONE = 'elsa-web-1.1.2';
+var VERSIONE = 'elsa-web-1.1.3';
 var FILE = [
   './',
   'index.html',

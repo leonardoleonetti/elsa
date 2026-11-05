@@ -72,6 +72,6 @@ with attribution to the author. Copying, modifying or reusing its code, or
 using it for commercial purposes, is not permitted without the author's
 written permission.
 
-Thanks to Prof. Maurizio Aristodemo and to the thesis students Francesco
-Napoli, Cosimo Francesco Piro and Pierluigi Piccolo for their contribution
-to the original version.
+The author thanks Prof. Maurizio Aristodemo and the thesis students
+Francesco Napoli, Cosimo Francesco Piro and Pierluigi Piccolo for their
+contributions to the original version.

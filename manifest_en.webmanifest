@@ -1,7 +1,7 @@
 {
   "name": "Elsa - plane beam structures",
   "short_name": "Elsa EN",
-  "description": "Elastic analysis of plane beam structures with the displacement method and the force method.",
+  "description": "Elastic analysis of plane beam structures using the displacement and force methods.",
   "lang": "en",
   "id": "Elsa_EN.html",
   "start_url": "Elsa_EN.html",
