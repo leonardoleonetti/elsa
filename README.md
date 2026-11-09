@@ -1,4 +1,4 @@
-# Elsa 4.1
+# Elsa 4.1.1
 
 *[English version below](#english)*
 
@@ -40,7 +40,7 @@ originale.
 
 <a id="english"></a>
 
-# Elsa 4.1 (English)
+# Elsa 4.1.1 (English)
 
 Elastic analysis of plane beam structures with the displacement method and
 the force method: supports, internal releases, distributed loads, support
