@@ -6,7 +6,7 @@
  * versione nuova compare gia' alla seconda apertura.
  * Cambiare VERSIONE a ogni pubblicazione per rinnovare subito la cache.
  */
-var VERSIONE = 'elsa-web-1.1.6';
+var VERSIONE = 'elsa-web-1.1.7';
 var FILE = [
   './',
   'index.html',
